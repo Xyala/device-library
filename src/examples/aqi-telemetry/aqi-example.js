@@ -1,5 +1,5 @@
 //Includes
-var overlayliveDevice = require('overlaylive-device-library');
+var overlayliveDevice = require('../../lib/overlaylive-device.js');
 var config = require('./device-config.js');
 
 
